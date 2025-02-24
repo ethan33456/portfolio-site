@@ -18,9 +18,10 @@ const Banner = () => {
                                         {">"} <span className="text-Snow sm:text-xl xl:text-2xl font-bold"> I am a  <span className="inline-block">
                                             <Typewriter
                                                 options={{
-                                                    strings:
-                                                        ['MERN Stack Developer',
-                                                            'NexJs Developer'],
+                                                    strings: [
+                                                        'Developer',
+                                                        'Software Engineer'  // Add any other titles you'd like
+                                                    ],
                                                     autoStart: true,
                                                     loop: true,
                                                 }}

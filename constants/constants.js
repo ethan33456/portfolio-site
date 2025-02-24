@@ -1,11 +1,10 @@
-export const NAME = 'Muhammad Osama Javaid';
-
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const NAME = "Ethan Bell";
+export const DESIGNATION = "Developer";
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: "United States",
+  City: "St. Louis",
+  State: "Missouri",
 };
 
 export const SKILLS = [
@@ -60,8 +59,6 @@ export const CONTACTS = {
   PHONE: '+923159591822',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: "https://github.com/ethan33456",
+  LINKEDIN: "https://www.linkedin.com/in/ethan-bell-859b601b4"
 };
