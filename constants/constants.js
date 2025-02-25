@@ -31,32 +31,32 @@ export const SKILLS = [
 ];
 
 export const TECH_STACK = [
+  'PHP',
   'JavaScript',
-  'ReactJS',
-  'NextJS',
-  'TypeScript',
-  'NodeJS',
-  'Redux',
-  'Zustand',
-  'CSS',
-  'SCSS',
-  'TailwindCSS',
-  'Ant Design',
-  'Material UI',
-  'Next UI',
-  'REST API',
-  'MongoDB',
   'MySQL',
-  'Git',
-  'GitHub',
-  'Jira',
+  'Next.JS',
+  'React',
+  'Python',
+  'jQuery',
+  'AWS',
+  'SQL',
+  'REST API',
+  'Apache',
+  'Tailwind',
+  'SCSS',
+  'CSS',
+  'Java',
+  'C',
+  'Photoshop',
   'Figma',
-  'Adobe XD',
+  'Adobe Illustrator',
+  'Git',
+  'UI/UX'
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'wmmethan@gmail.com',
+  PHONE: '(314) 601-1794',
 };
 export const SOCIAL_LINKS = {
   GITHUB: "https://github.com/ethan33456",
