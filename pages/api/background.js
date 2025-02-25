@@ -22,9 +22,7 @@ const background = [
                 detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
                 year: '2013-2015'
             },
-        ]
-    },
-    {
+        ],
         expCards: [
             {
                 id: 1,
@@ -53,11 +51,9 @@ const background = [
                 year: '09/2020 - 02/2021',
                 location: 'Peshawar, Pakistan'
             },
-
         ]
     }
-]
-
+];
 
 export default function handler(req, res) {
     res.status(200).json(background)
