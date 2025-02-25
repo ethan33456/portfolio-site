@@ -41,7 +41,7 @@ const home = () => {
                     <p className="text-Green text-xs tracking-widest">PORTFOLIO</p>
                     <h1 className="text-Snow text-2xl lg:text-4xl">Recent Projects</h1>
                 </div>
-                <div className="grid justify items-center grid-flow-row md:grid-cols-2 grid-rows-auto gap-4 px-8 my-6">
+                <div className="grid justify items-center grid-flow-row md:grid-cols-2 grid-rows-auto gap-4 px-4 my-6">
                     {portfolioLoading ?
                         [1, 2, 3, 4].map((_, index) => (
                             <ImageAndParagraphSkeleton key={index} className={"w-full object-cover"} />
